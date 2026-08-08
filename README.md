@@ -1,2 +1,3 @@
 # seekolor
-Seekolor · Immersive Color‑Personality Explorer Discover your unique color personality through 30 spatial‑aesthetic multiple‑choice questions
+Seekolor · 沉浸式色彩—人格探索者 
+通过30道空间美学多项选择题，发现你独特的色彩人格
